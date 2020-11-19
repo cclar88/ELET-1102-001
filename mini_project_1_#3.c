@@ -1,6 +1,6 @@
 /******************************************************************************
 
-    Connor Clark
+    Connor Clark, Ethan Moore, Mitch Hoover
     ELET-1102-001
     11/16/2020
     Mini Project 1 (#3)

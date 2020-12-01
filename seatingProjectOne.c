@@ -1,8 +1,11 @@
 /******************************************************************************
-
-Project group #5
-Restaurant sitting schematic
-
+    Connor Clark, Ethan Moore, Mitch Hoover
+    ELET-1102-001
+    11/16/2020
+    Mini Project 1 (#1)
+    
+    This program tells a party at a restaraunt where to sit based on the amount 
+    of people in the party
 *******************************************************************************/
 #include <stdio.h>
 
